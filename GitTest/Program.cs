@@ -14,6 +14,7 @@ namespace GitTest
             Console.WriteLine("Happy MidAutumn Festival");
             Console.WriteLine("Happy National Day");
             Console.WriteLine("Happy New Year");
+            Console.WriteLine("Change HomePage");
         }
     }
 }
