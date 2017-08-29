@@ -10,6 +10,8 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Happy MidAutumn Festival");
+            Console.WriteLine("Happy National Day");
         }
     }
 }
