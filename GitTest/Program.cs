@@ -11,9 +11,9 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Happy MidAutumn Festival");
-            Console.WriteLine("Happy National Day");
-            Console.WriteLine("Happy New Year");
+            Console.WriteLine("Happy MidAutumn Festival!");
+            Console.WriteLine("Happy National Day!");
+            Console.WriteLine("Happy New Year!");
             Console.WriteLine("Change HomePage");
         }
     }
